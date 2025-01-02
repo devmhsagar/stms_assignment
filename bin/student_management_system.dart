@@ -72,7 +72,6 @@ class StudentManagementSystem {
 
     Teacher teacher = Teacher("Mrs. Smith", 35, "456 Oak St", "T001", ["Math", "English", "Bangla"]);
 
-    //output
     // Print Student Information
     print('Student Information:');
     student.displayRole();
