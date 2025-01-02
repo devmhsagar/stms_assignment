@@ -67,10 +67,10 @@ class Teacher extends Person {
 class StudentManagementSystem {
   void run() {
 
-    Student student = Student("John Doe", 20, "123 Main St", "S001", "A", [90, 85, 82]);
+    Student student = Student("Md. Mahdee Hasan Sagar", 28, "Bhola Sadar, Bhola", "S001", "A", [90, 85, 82]);
 
 
-    Teacher teacher = Teacher("Mrs. Smith", 35, "456 Oak St", "T001", ["Math", "English", "Bangla"]);
+    Teacher teacher = Teacher("Md. Toufikur Rahman", 35, "Dhaka-1207", "T001", ["Math", "English", "Bangla"]);
 
     // Print Student Information
     print('Student Information:');
